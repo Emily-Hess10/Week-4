@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #232f3e;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.cart-count {
+  font-size: 1.2rem;
+}
